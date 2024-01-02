@@ -111,3 +111,5 @@ Grasman, R., van der Maas, H. L., & Wagenmakers, E.-J. (2009). Fitting the Cusp 
 - In Simulation 1, we found that accuracy suffers from small sample sizes (<100) but could detect no systematic over- or underestimation.
 - In Simulation 2, we found that accuracy suffers from measures with low granularity (e.g., 7-point scales). Additionally, we found that some parameters are systematically underestimated and others are systematically overestimated.
 - In Simulation 3, we found similar results to simulation 2, with accuracy suffering under a restricted sampling range and some parameters getting systematically over- or are underestimated.
+
+[Link to my NetLogo simulation](netlogo/Ising.html)
